@@ -333,3 +333,9 @@
 
 
 
+# #Write a program to inut 2 numbers and print their sum
+# a=int(input("first number:"))
+# b=int(input("second number:"))
+# print(a+b)
+
+
